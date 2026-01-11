@@ -1,7 +1,20 @@
+# 1. 컴파일 결과물 및 실행 파일
 *.exe
+*.out
+*.app
 *.o
 *.obj
-*.out
+
+# 2. Visual Studio 자동 생성 폴더 및 파일
 .vs/
 Debug/
 Release/
+x64/
+*.user
+*.aps
+*.opendb
+*.pdb
+
+# 3. 기타 임시 파일
+*.log
+*.tmp
