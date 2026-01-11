@@ -1,0 +1,3 @@
+﻿  1.c
+C:\Visual Studio\1_logic to check for drainage\1_logic to check for drainage\1.c(27,5): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  1_logic to check for drainage.vcxproj -> C:\Visual Studio\1_logic to check for drainage\x64\Debug\1_logic to check for drainage.exe
