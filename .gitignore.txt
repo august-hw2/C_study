@@ -1,13 +1,14 @@
-# Visual Studio Build Artifacts
+# Visual Studio
+.vs/
 x64/
 Debug/
 Release/
 *.exe
 *.pdb
 *.obj
+*.sln
+*.vcxproj*
 
-# Visual Studio Metadata
-.vs/
-*.user
-*.vcxproj
-*.filters
+# OS
+Thumbs.db
+.DS_Store
