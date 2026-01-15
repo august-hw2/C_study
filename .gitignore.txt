@@ -1,20 +1,13 @@
-# 1. 컴파일 결과물 및 실행 파일
-*.exe
-*.out
-*.app
-*.o
-*.obj
-
-# 2. Visual Studio 자동 생성 폴더 및 파일
-.vs/
+# Visual Studio Build Artifacts
+x64/
 Debug/
 Release/
-x64/
-*.user
-*.aps
-*.opendb
+*.exe
 *.pdb
+*.obj
 
-# 3. 기타 임시 파일
-*.log
-*.tmp
+# Visual Studio Metadata
+.vs/
+*.user
+*.vcxproj
+*.filters
